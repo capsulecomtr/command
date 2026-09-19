@@ -1,0 +1,6 @@
+.summary-block-content ul{flex-direction:column;gap:16px;margin:0;padding:0;list-style:none;display:flex}.summary-block-content ul+p,.summary-block-content ol+p,.summary-block-content p+ul,.summary-block-content p+ol{margin-top:16px}.summary-block-content li{align-items:flex-start;gap:12px;display:flex}.summary-block-content li:before{content:"";font-variation-settings:"FILL" 0, "wght" 400, "GRAD" 0, "opsz" 20;background-color:var(--color-tertiary-4);width:28px;height:28px;color:var(--color-secondary-darkfir);border-radius:4px;flex-shrink:0;justify-content:center;align-items:center;font-family:Material Symbols Rounded;font-size:20px;font-style:normal;font-weight:400;line-height:1.25;display:flex}
+
+.command-records-title,
+.command-records-title span {
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
